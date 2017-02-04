@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScarnesDice</string>
+    <string name="roll_button">ROLL</string>
+    <string name="hold_button">HOLD</string>
+    <string name="reset_button">RESET</string>
+
+</resources>
